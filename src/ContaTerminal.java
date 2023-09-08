@@ -8,7 +8,7 @@ public class ContaTerminal {
         String nomeCliente;
         double saldo=1000.50;
 
-        System.out.println("Por favor, digite o número da agencia: ");
+        System.out.println("Por favor, digite o número da sua agencia: ");
         agencia= tec.next();
         System.out.println("Digite seu nome");
         nomeCliente=tec.next();
